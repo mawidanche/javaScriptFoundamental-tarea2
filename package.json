@@ -1,0 +1,12 @@
+{
+  "name": "tarea-2",
+  "version": "1.0.0",
+  "description": "tarea 2 de fundamentos javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Riquelme (r.alexander.riquelme@gmail.com)",
+  "license": "ISC",
+  "type": "module"
+}
